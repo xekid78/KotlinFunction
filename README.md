@@ -1,0 +1,2 @@
+# KotlinFunction
+関数
